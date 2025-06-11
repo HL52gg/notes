@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hl52gg.github.io/notes/en/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://hl52gg.github.io/notes/en/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -39,19 +39,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hl52gg.github.io/notes/en/page/"
-                />
-  </url><url>
-    <loc>https://hl52gg.github.io/notes/en/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://hl52gg.github.io/notes/%E5%85%B3%E4%BA%8E/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hl52gg.github.io/notes/en/about/"
                 />
   </url><url>
     <loc>https://hl52gg.github.io/notes/en/categories/</loc>
@@ -66,7 +53,7 @@
                 href="https://hl52gg.github.io/notes/en/categories/"
                 />
   </url><url>
-    <loc>https://hl52gg.github.io/notes/en/links/</loc>
+    <loc>https://hl52gg.github.io/notes/en/link/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -75,7 +62,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hl52gg.github.io/notes/en/links/"
+                href="https://hl52gg.github.io/notes/en/link/"
                 />
   </url><url>
     <loc>https://hl52gg.github.io/notes/en/search/</loc>
